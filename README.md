@@ -1,2 +1,2 @@
-# hello-world
-First repository, following Github guide. 
+Readme file
+Just following Github guide and editing readme file. 
